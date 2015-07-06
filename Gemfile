@@ -48,7 +48,9 @@ group :development, :test do
   gem 'font-awesome-rails'
 
   # Forms
-
   gem 'simple_form'
+
+  # Devise
+  gem 'devise'
 end
 
